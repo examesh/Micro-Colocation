@@ -2,7 +2,7 @@ Your [Mico Colocation](https://micro-colocation.com) Service Within Our Green Ed
 
 ## About
 
-There are some colocations available for Single Board Computers like the famous Raspberry Pi. However, we wanted to create a special one. Due to our long experience with decentralized data centers we can offer you a place at the green edge:
+There are some colocations available for Single Board Computers like the famous Raspberry Pi. However, we wanted to create a special one. Due to our long experience with decentralized data centers we can offer you a sunny place at the green edge:
 
 We host your mini computer in one of our small decentralized edge colocations inside a wind turbine or a solar park. The best part: The locations are operated 24/7 with green energy. So your device is not only truly decentralized, but also climate-neutral in operation.
 
