@@ -14,27 +14,34 @@ The locations are currently spread all over Germany. In the future, further loca
 Best of all, EU locations mean EU privacy.
 
 
+## Features
+
+✅ [Flexible rack space](https://micro-colocation.com/docs/what-devices-can-i-operate-in-the-colocation/)
+✅ Unlimited traffic
+✅ Public IPv6 address
+✅ Remote Power On/Off
+✅ Remote Console Access
+✅ No setup fee
+✅ Green energy
+✅ EU Privacy
+✅ Location Germany
+
+
 ## Edge Data Center
 
 Your Raspberry Pi or any other Single Board Computer, with or without additional periphery such as an additional hard drive, will be installed in our self-developed rack.
 
-```txt
-TODO: add pictures and/or movie
-```
+<img src="https://pi-colocation.com/images/gallery/pi-colocation-rack.jpg" width=200px> <img src="https://pi-colocation.com/images/gallery/pi-colocation-rack.jpg" width=200px> <img src="https://pi-colocation.com/images/gallery/pi-colocation-wind-turbine.jpg" width=200px>
 
 
 ## Booking
 
-Click on Order now and you will enter the simple but flexible one-page checkout. After configuring your colocation, fill in your address and select a payment method. You can book a colocation for as little as `TODO`. The minimum term is only `TODO` months. There is no setup fee.
-
-```txt
-TODO: add table
-```
+[Click on Order](https://micro-colocation.com/product/colocation/) and you will enter the simple but flexible one-page colocation setup. After configuration, fill in your address and select a payment method.
 
 
 ## Configure
 
-After the colocation is booked, you will be automatically redirected to the administration page. There you will find all the necessary information to prepare your colcation device.
+After the colocation is booked, you will be automatically redirected to the administration page. There you will find all the necessary information to prepare your colocation device(s).
 
 
 
@@ -52,6 +59,5 @@ After receiving your package, it usually takes 24-48 hours to install it in the 
 
 ## The Full Story
 
-Check out our detailed documentation `TODO LINK` to get the big picture.
-
+Check out [our detailed documentation](https://micro-colocation.com/docs/) to get the big picture. Most interesting for the start are [What devices can I operate in the colocation?](https://micro-colocation.com/docs/what-devices-can-i-operate-in-the-colocation/) and [What does a typical colocation setup look like?](https://micro-colocation.com/docs/what-does-a-typical-colocation-setup-look-like/).
 
