@@ -1,5 +1,8 @@
-Your [Mico Colocation](https://micro-colocation.com) Service Within Our Green Edge Data Centers.
+<a href="https://micro-colocation.com"><img src="https://github.com/examesh/Micro-Colocation/raw/main/data/Logo1.blue.png" width="30%" height="30%">
 
+
+  
+<br>
 
 ## About
 
