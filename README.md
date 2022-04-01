@@ -1,4 +1,4 @@
-<a href="https://micro-colocation.com"><img src="https://github.com/examesh/Micro-Colocation/raw/main/data/Logo1.blue.png" width="30%" height="30%"></a>
+<a href="https://micro-colocation.com"><img src="https://github.com/examesh/Micro-Colocation/raw/main/data/Logo1.blue.png" width="40%" height="40%"></a>
 
 <br>
 
